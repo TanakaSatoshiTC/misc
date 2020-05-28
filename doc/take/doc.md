@@ -9,4 +9,9 @@
 
 * [Functions Console](https://console.firebase.google.com/project/kamo-it-pj-takeout-develop/functions/list)
 
+* [Cloud Firestore セキュリティ ルールを使ってみる](https://firebase.google.com/docs/firestore/security/get-started?hl=ja)
+
+* [Cloud Firestore トリガー](https://firebase.google.com/docs/functions/firestore-events?hl=ja)
+   * functionで使用
+
 * [JavaScript リファレンス MDN](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference)
