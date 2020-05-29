@@ -10,6 +10,7 @@
 * [Functions Console](https://console.firebase.google.com/project/kamo-it-pj-takeout-develop/functions/list)
 
 * [Cloud Firestore セキュリティ ルールを使ってみる](https://firebase.google.com/docs/firestore/security/get-started?hl=ja)
+   * 新しくコレクションを追加した時はセキュリティールールをFirebase Consoleから変更する
 
 * [Cloud Firestore トリガー](https://firebase.google.com/docs/functions/firestore-events?hl=ja)
    * functionで使用
