@@ -1,3 +1,6 @@
+### Tips
+* タブが2個以上あるとロードしつづける
+
 ### Github
 * [takeout-app](https://github.com/BuildManLLC/takeout-app)
 * [takeout-function](https://github.com/BuildManLLC/takeout-function)
