@@ -1,10 +1,6 @@
 ### Tips
 * タブが2個以上あるとロードしつづける
 
-### Github
-* [takeout-app](https://github.com/BuildManLLC/takeout-app)
-* [takeout-function](https://github.com/BuildManLLC/takeout-function)
-
 ### リンク
 * [Notion Firestoreデータ構造](https://www.notion.so/Firestore-dbcb1891bf114598bb2b54dada255641)
 
